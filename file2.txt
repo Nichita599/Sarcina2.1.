@@ -1,1 +1,2 @@
 Continutul fisierului 2
+BugFix - modificare fisier 2
